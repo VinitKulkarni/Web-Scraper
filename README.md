@@ -35,6 +35,6 @@ http://<publicIP>:5000
 ## To generate new scraped content for the new URL
 ```sh
 vi .env
-change the url
+SCRAPE_URL="your_new_url.com"
 use docker build(Step-3) and docker run(Step-4) as mentioned above
 ```
