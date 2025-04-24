@@ -3,7 +3,6 @@ Building a multi-stage Docker container with A Node.js + Puppeteer scraper and P
 
 ### Step-1: Clone the project
 ```sh
-mkdir scraper-project
 git clone https://github.com/VinitKulkarni/Web-Scraper.git
 ```
 
